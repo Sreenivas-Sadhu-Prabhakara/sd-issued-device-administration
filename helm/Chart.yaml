@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-issued-device-administration
+description: "BIAN Service Domain: Issued Device Administration (Administer pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - administer
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Cards"
+  bian/asset-type: "Issued Card"
+  bian/control-record: "Issued Card Administrative Plan"
